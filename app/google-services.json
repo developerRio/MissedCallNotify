@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "244059442343",
+    "firebase_url": "https://missedcallnotify-d32b2.firebaseio.com",
+    "project_id": "missedcallnotify-d32b2",
+    "storage_bucket": "missedcallnotify-d32b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244059442343:android:006a825d9efc1667",
+        "android_client_info": {
+          "package_name": "com.originalstocks.missedcallnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244059442343-055vlkeqv4p3c6q2073ae9bh80umr5qr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.originalstocks.missedcallnotify",
+            "certificate_hash": "f74cd5bfc3c20ab986b699d01a42baac166d11d0"
+          }
+        },
+        {
+          "client_id": "244059442343-vagan7pc6v14i5pjj8neid3mr02nui9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMBef9e7S1Zmlho1hwf2cqbyCw-Tq-Gis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244059442343-vagan7pc6v14i5pjj8neid3mr02nui9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
